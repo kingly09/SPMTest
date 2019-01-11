@@ -1,6 +1,3 @@
-struct SPMTest {
-    var text = "Hello, World!"
-}
 
 public class SPMPublicTest {
   public var text = "SPMPublicTest"
