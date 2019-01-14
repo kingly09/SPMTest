@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SPMTest",
+        "repositoryURL": "https://github.com/kingly09/SPMTest.git",
+        "state": {
+          "branch": null,
+          "revision": "13536d2e7f45874df4f8759c4b3c3f10ac37c64a",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
